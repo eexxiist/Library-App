@@ -16,8 +16,8 @@
 ---
 
 ## 🛠️ Используемые технологии
-- [React]
-- [Vite]
+- React
+- Vite
 - CSS Modules
 - [Open Library API](https://openlibrary.org/developers/api)
 
